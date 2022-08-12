@@ -1,4 +1,4 @@
-# koa-convert
+# valentinstepanov-convert
 
 [![Build Status][travis-img]][travis-url]
 [![NPM version][npm-badge]][npm-url]
